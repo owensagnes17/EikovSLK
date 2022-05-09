@@ -1,7 +1,6 @@
 #include <gtest/gtest.h>
 
 #include "util.h"
-#include <neuron.h>
 
 TEST(MQTTTest, mqtt_option_init_by_config)
 {
